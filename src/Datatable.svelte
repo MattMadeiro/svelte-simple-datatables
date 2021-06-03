@@ -73,7 +73,7 @@
 	.css article::-webkit-scrollbar-track-piece:start {
 		top: 40px;
 	}
-	.css table {
+	table {
 		width: 100%;
 		border-collapse: collapse;
 		overflow: hidden;
